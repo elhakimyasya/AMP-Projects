@@ -2,6 +2,9 @@
 AMP-Project-for-Blogger
 
 disqus-amp.html
+popular-post-amp.html
 
-Thanks for:
-[Maxpirin](https://github.com/maxprin) - https://github.com/disqus/disqus-install-examples/issues/3#issue-177942264
+Source:
+[Maxpirin](https://github.com/maxprin) - [issue-177942264](https://github.com/disqus/disqus-install-examples/issues/3#issue-177942264)
+[Mikle](https://feed.mikle.com/)
+
